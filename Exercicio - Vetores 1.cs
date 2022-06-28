@@ -12,7 +12,7 @@ class Program
     int contaPares = 0; 
     int contaImpares = 0;
     int soma = 0;
-    Double Media = 0;
+    double Media = 0;
     int contador = 1;
     
 
