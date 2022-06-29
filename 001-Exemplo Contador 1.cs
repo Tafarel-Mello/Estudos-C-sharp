@@ -3,7 +3,7 @@ using System;
 class Program {
   public static void Main (string[] args) 
   {
-    int positivos = 0; // contador de numeros positivos
+    int positivos = 0; // contador de numeros positivos apenas
     int num;
     Console.Write("Digite um numero entre -100 e 100: ");
     num = int.Parse(Console.ReadLine());

@@ -2,7 +2,7 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
-    // Declaracao das variaveis 
+    // Declaracao das variaveis para calculos
     int n1, n2, n3, n4, n5, Soma;
     Double Media;
 
