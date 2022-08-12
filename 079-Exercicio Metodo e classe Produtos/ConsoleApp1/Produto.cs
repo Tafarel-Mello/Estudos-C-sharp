@@ -18,6 +18,16 @@ namespace Curso
             return Preco * Quantidade;
         }
 
+        public void AdicionarProdutos(int quantidade) // esta funcao e 'void' pq ela nao retorna valor, mas ela altera uma variavel
+        {
+            Quantidade = Quantidade + quantidade;
+        }
+
+        public void RemoverProdutos(int quantidade) // esta funcao e 'void' pq ela nao retorna valor, mas ela altera uma variavel
+        {
+            Quantidade = Quantidade - quantidade;
+        }
+
         public override string ToString()
         {
             return Nome 
