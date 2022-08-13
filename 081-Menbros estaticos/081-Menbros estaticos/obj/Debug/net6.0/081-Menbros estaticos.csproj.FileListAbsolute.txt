@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\bin\Debug\net6.0\081-Menbros estaticos.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\bin\Debug\net6.0\081-Menbros estaticos.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\bin\Debug\net6.0\081-Menbros estaticos.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\bin\Debug\net6.0\081-Menbros estaticos.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\bin\Debug\net6.0\081-Menbros estaticos.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\refint\081-Menbros estaticos.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\081-Menbros estaticos.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\081-Menbros estaticos\081-Menbros estaticos\obj\Debug\net6.0\ref\081-Menbros estaticos.dll
