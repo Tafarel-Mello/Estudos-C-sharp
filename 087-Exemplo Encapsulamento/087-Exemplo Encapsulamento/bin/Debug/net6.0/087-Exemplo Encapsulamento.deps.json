@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "087-Exemplo Encapsulamento/1.0.0": {
+        "runtime": {
+          "087-Exemplo Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "087-Exemplo Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\bin\Debug\net6.0\087-Exemplo Encapsulamento.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\bin\Debug\net6.0\087-Exemplo Encapsulamento.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\bin\Debug\net6.0\087-Exemplo Encapsulamento.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\bin\Debug\net6.0\087-Exemplo Encapsulamento.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\bin\Debug\net6.0\087-Exemplo Encapsulamento.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\refint\087-Exemplo Encapsulamento.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\087-Exemplo Encapsulamento.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\087-Exemplo Encapsulamento\087-Exemplo Encapsulamento\obj\Debug\net6.0\ref\087-Exemplo Encapsulamento.dll
