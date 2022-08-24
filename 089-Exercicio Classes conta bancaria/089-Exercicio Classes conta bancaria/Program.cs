@@ -7,24 +7,32 @@ namespace Curso
     {
         static void Main(string[] args)
         {
-            int numeroConta;
-            string nomeTitular;
-            char depositoInicial;
-            float saldoInicial, saldo;
+            ContaBancaria conta;
 
-            Console.WriteLine("Entre o numero da conta: ");
-            numeroConta = int.Parse(Console.ReadLine());
+            Console.Write("Entre o numero da conta: ");
+            int numero = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Entre o titular da conta: ");
-            nomeTitular = Console.ReadLine();
+            Console.Write("Entre o titular da conta: ");
+            string titular = Console.ReadLine();
 
-            Console.WriteLine("Havera deposito inicial (s/n)? ");
-            depositoInicial = char.Parse(Console.ReadLine());
+            Console.Write("Havera deposito inicial (s/n)?: ");
+            char resposta = char.Parse(Console.ReadLine());
 
-            Console.WriteLine("Entre o valor de deposito inicial: ");
-            saldoInicial = float.Parse(Console.ReadLine());
+            if(resposta == 's' || resposta == 'S')
+            {
+                Console.Write("Entre o valor do deposito inicial: ");
+                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);  
+                conta = new ContaBancaria(numero, titular, depositoInicial);
+            }
+            else
+            {
+                conta = new ContaBancaria(numero, titular);
+            }
 
-
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta: ");
+            Console.WriteLine(conta);
+            Console.ReadKey();
 
         }
     }
