@@ -24,9 +24,9 @@ namespace Curso
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular) // o this pega como referencia os outros dois comandos ja passados 
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular) // o this pega como referencia os outros dois comandos ja passados 
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
         // **********************************************
 
