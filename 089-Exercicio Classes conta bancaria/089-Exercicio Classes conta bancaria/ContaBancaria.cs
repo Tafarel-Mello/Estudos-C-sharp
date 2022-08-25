@@ -15,6 +15,8 @@ namespace Curso
         public double Saldo { get; private set; }
         // **********************************************
 
+
+
         // ********* Construtores da classe *************
         public ContaBancaria(int numero, string titular)
         {
@@ -28,6 +30,23 @@ namespace Curso
         }
         // **********************************************
 
+
+        // *********** Operacoes da classe **************
+
+
+        public void Deposito(double quantia)
+        {
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia)
+        {
+            Saldo -= quantia;
+            Saldo -= 5.00; // taxa
+        }
+
+
+        // ******** To string dos dados da classe *******
         public override string ToString()
         {
             return "Conta: "
@@ -37,6 +56,9 @@ namespace Curso
                 + ", Saldo $: "
                 + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
+        // **********************************************
+
+
 
     }
 }
