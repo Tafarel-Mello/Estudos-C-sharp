@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\bin\Debug\net6.0\092-Exercicio Vetor + Classe.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\bin\Debug\net6.0\092-Exercicio Vetor + Classe.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\bin\Debug\net6.0\092-Exercicio Vetor + Classe.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\bin\Debug\net6.0\092-Exercicio Vetor + Classe.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\bin\Debug\net6.0\092-Exercicio Vetor + Classe.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\refint\092-Exercicio Vetor + Classe.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\092-Exercicio Vetor + Classe.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\092-Exercicio Vetor + Classe\092-Exercicio Vetor + Classe\obj\Debug\net6.0\ref\092-Exercicio Vetor + Classe.dll
