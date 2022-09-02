@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\bin\Debug\net6.0\094-Exercicio Pensionato.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\bin\Debug\net6.0\094-Exercicio Pensionato.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\bin\Debug\net6.0\094-Exercicio Pensionato.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\bin\Debug\net6.0\094-Exercicio Pensionato.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\bin\Debug\net6.0\094-Exercicio Pensionato.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\refint\094-Exercicio Pensionato.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\094-Exercicio Pensionato.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\094-Exercicio Pensionato\094-Exercicio Pensionato\obj\Debug\net6.0\ref\094-Exercicio Pensionato.dll
