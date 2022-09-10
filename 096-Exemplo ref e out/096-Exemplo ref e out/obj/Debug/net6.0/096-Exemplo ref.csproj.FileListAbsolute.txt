@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\bin\Debug\net6.0\096-Exemplo ref.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\bin\Debug\net6.0\096-Exemplo ref.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\bin\Debug\net6.0\096-Exemplo ref.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\bin\Debug\net6.0\096-Exemplo ref.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\bin\Debug\net6.0\096-Exemplo ref.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\refint\096-Exemplo ref.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\096-Exemplo ref.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\096-Exemplo ref e out\096-Exemplo ref e out\obj\Debug\net6.0\ref\096-Exemplo ref.dll
