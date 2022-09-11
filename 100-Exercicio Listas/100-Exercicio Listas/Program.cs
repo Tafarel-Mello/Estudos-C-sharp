@@ -27,15 +27,27 @@ namespace Curso
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Updated list of employees:");
-            foreach(Employee emp in list)
+            Console.Write("Enter the Employee id that will have salary increase : ");
+            int procuraId = int.Parse(Console.ReadLine()); // variavel para armazenar o ID desejado
+
+            Employee emp = list.Find(x => x.Id == procuraId); // variavel do tipo Employee que vai receber o resultado do processo list.Find para o processo de aumento de salario
+            if(emp != null)
             {
-                Console.WriteLine(emp);
+                Console.Write("Enter the percentage: ");
+                double percentual = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                emp.IncreaseSalary(percentual);
+            }
+            else
+            {
+                Console.WriteLine("This is does not exist!");
             }
 
-
-
-
+            Console.WriteLine();
+            Console.WriteLine("Updated list of employees:");
+            foreach(Employee obj in list)
+            {
+                Console.WriteLine(obj);
+            }
 
             Console.ReadKey();
         }
