@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\bin\Debug\net6.0\099-Exemplo List.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\bin\Debug\net6.0\099-Exemplo List.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\bin\Debug\net6.0\099-Exemplo List.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\bin\Debug\net6.0\099-Exemplo List.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\bin\Debug\net6.0\099-Exemplo List.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\refint\099-Exemplo List.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\099-Exemplo List.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\099-Exemplo List\099-Exemplo List\obj\Debug\net6.0\ref\099-Exemplo List.dll
