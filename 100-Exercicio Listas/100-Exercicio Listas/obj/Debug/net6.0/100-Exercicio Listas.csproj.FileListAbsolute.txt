@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\bin\Debug\net6.0\100-Exercicio Listas.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\bin\Debug\net6.0\100-Exercicio Listas.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\bin\Debug\net6.0\100-Exercicio Listas.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\bin\Debug\net6.0\100-Exercicio Listas.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\bin\Debug\net6.0\100-Exercicio Listas.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\refint\100-Exercicio Listas.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\100-Exercicio Listas.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\100-Exercicio Listas\100-Exercicio Listas\obj\Debug\net6.0\ref\100-Exercicio Listas.dll
