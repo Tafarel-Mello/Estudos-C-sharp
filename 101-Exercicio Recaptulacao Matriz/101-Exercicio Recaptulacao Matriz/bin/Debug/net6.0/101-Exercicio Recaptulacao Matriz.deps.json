@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "101-Exercicio Recaptulacao Matriz/1.0.0": {
+        "runtime": {
+          "101-Exercicio Recaptulacao Matriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "101-Exercicio Recaptulacao Matriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
