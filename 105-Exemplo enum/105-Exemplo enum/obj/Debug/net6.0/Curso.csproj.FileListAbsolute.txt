@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\bin\Debug\net6.0\Curso.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\bin\Debug\net6.0\Curso.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\bin\Debug\net6.0\Curso.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\bin\Debug\net6.0\Curso.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\bin\Debug\net6.0\Curso.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\refint\Curso.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\Curso.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\105-Exemplo enum\105-Exemplo enum\obj\Debug\net6.0\ref\Curso.dll
