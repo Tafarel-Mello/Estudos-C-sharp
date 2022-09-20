@@ -1,0 +1,15 @@
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\bin\Debug\net6.0\106-Exemplo Composicao.exe
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\bin\Debug\net6.0\106-Exemplo Composicao.deps.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\bin\Debug\net6.0\106-Exemplo Composicao.runtimeconfig.json
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\bin\Debug\net6.0\106-Exemplo Composicao.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\bin\Debug\net6.0\106-Exemplo Composicao.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.csproj.AssemblyReference.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.AssemblyInfoInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.AssemblyInfo.cs
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\refint\106-Exemplo Composicao.dll
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.pdb
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\106-Exemplo Composicao.genruntimeconfig.cache
+C:\Users\Tafarel\Documents\Portfolio\Repositorios GitHub Pessoal\C-Sharp\Estudos-C-sharp\106-Exemplo Composicao\106-Exemplo Composicao\obj\Debug\net6.0\ref\106-Exemplo Composicao.dll
